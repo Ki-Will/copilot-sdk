@@ -17,3 +17,6 @@ java/.classpath
 java/.project
 java/.settings
 java/scripts/codegen/node_modules/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
