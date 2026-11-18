@@ -13,7 +13,7 @@
     "validate:java": "tsx validate.ts --lang=java"
   },
   "dependencies": {
-    "glob": "^11.0.0",
+    "glob": "^14.0.2",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0"
   }
